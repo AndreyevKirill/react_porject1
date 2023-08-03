@@ -1,3 +1,2 @@
 <h1 align="center">Hi there, I'm Kirill
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">This is my first React project <a href="https://andreyevkirill.github.io/react_porject1/">First</a></h3>
